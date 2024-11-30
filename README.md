@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Singh
-- 👀 I’m interested in Solcing Problems
+- 👀 I’m interested in Solving Problems
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on Mern Projects
 - 📫 How to reach me https://www.linkedin.com/in/ankit-singh-721306287/
