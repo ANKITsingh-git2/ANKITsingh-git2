@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a full stack mern developer with knowledge of gen ai , rag <br> I’m interested in Solving Problems<br>🌱 I’m currently learning Web Dev<br>💞️ I’m looking to collaborate on Mern Projects<br>📫 How to reach me https://www.linkedin.com/in/ankit-singh-721306287/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Codes are only Facts
+i am a full stack mern developer with knowledge of gen ai , rag <br> I’m interested in Solving Problems<br>🌱 I’m currently learning Web Dev<br>💞️ I’m looking to collaborate on Mern Projects<br>📫 How to reach me https://www.linkedin.com/in/ankit-singh-721306287/<br>⚡ Fun fact: Codes are only Facts
 
 
 ## 🌐 Socials:
